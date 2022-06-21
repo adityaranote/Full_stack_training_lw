@@ -20,7 +20,7 @@ It is Js Framework used to Create server side  backEnd for web_app.
 
 NodeJs:-
 It is a javascript runtime interpreter.
-
+To run JavaScript Code.
 
 4. Mongo db
 It is a no sql database where we store our data.

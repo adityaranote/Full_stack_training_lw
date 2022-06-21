@@ -1,0 +1,26 @@
+Tuesday 21/06/2022
+Introduction to the class Mern Stack
+1.html 
+we create structure using html 
+2.
+css 
+cascade style sheet 
+It creates the style if the sheets it makes the html page colorfull and
+attaractive.
+
+3. JavaScript
+It is language use both on server and client side to make web page static and 
+dynamic web app.
+
+ReactJs :-
+Front End frame work.
+
+ExpressJs :-
+It is Js Framework used to Create server side  backEnd for web_app.
+
+NodeJs:-
+It is a javascript runtime interpreter.
+
+
+4. Mongo db
+It is a no sql database where we store our data.

@@ -1,0 +1,10 @@
+1. Single Page Web Apps 
+It helps to not reload while using the different features.
+Improves user experience.
+2.
+Mutilpe Page Web Apps 
+It will reload when u go from One Page to Another Page .
+User expericence is not as smooth like single Page Web Apps.
+
+3. Aplication programme Interface 
+On server different area is assingned for different requests.

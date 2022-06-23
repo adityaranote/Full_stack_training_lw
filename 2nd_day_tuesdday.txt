@@ -1,4 +1,5 @@
-1. Single Page Web Apps 
+1. 
+Single Page Web Apps 
 It helps to not reload while using the different features.
 Improves user experience.
 2.
@@ -6,5 +7,29 @@ Mutilpe Page Web Apps
 It will reload when u go from One Page to Another Page .
 User expericence is not as smooth like single Page Web Apps.
 
-3. Aplication programme Interface 
-On server different area is assingned for different requests.
+3. 
+Aplication programme Interface 
+The programme which are acting as layer(program) to give result to user from the
+database and needs for user or programmes .Eg :- RestApi,GraphQl
+
+4.
+Http 
+It is protocoal to talk to web server from browser in case of web applications.
+
+5.
+Browser.
+They are biscally interpreter whose job is to convert the code into human 
+interactable form eg :- chrome they convert the code on client side and we use them 
+to interact and send request to webservers acc. to requirement.
+
+6.FulLStack
+Apllication Stack + Tech Stack.
+
+7. Application Stacks 
+Combination of Html + Css + Jss And frameworks(ReactJs for frontend and ExpressJs
+for BackEnd).and NodeJs is javascript runtime interpreter for webserver Written 
+using Js(and a frameWork like Express for backEnd).
+ Used to create web Application.
+ 
+
+

@@ -1,18 +1,18 @@
 Tuesday 21/06/2022
 Introduction to the class Mern Stack
 1.html 
-we create structure using html 
+We create Web page structure using html 
 2.
 css 
-cascade style sheet 
+Cascade Style Sheet 
 It Makes The html page look colorful and have certain desing
 
 3. JavaScript
-It is language use both on server and client side to make web page static and 
-dynamic web app.
+It is language use both on server and client side to make Static Web Page (Eg :- That only Gives Information)and 
+Dynamic web app(A dynamic website is a website that displays different types of content every time a user views it)eg:- Linked In, Twitter,Facebook.
 
 ReactJs :-
-Front End frame work.
+JS Front End frame work.
 
 ExpressJs :-
 It is Js Framework used to Create server side  backEnd for web_app.

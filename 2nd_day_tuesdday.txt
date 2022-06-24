@@ -14,7 +14,7 @@ database and needs for user or programmes .Eg :- RestApi,GraphQl
 
 4.
 Http 
-It is protocoal to talk to web server from browser in case of web applications.
+It is one of the protocol used to transfer data.
 
 5.
 Browser.
@@ -30,6 +30,9 @@ Combination of Html + Css + Jss And frameworks(ReactJs for frontend and ExpressJ
 for BackEnd).and NodeJs is javascript runtime interpreter for webserver Written 
 using Js(and a frameWork like Express for backEnd).
  Used to create web Application.
+8.
+TechStack.
+Docker ,Kubernetes
  
 
 

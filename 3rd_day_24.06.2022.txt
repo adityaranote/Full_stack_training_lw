@@ -1,0 +1,4 @@
+1. attributes
+2. action in form
+3. Get and Post we use post to send huge data
+4.

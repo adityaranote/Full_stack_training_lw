@@ -27,13 +27,14 @@ type is an attribute of input element.
 
 
 Enable webserever(apache company product:- httpd).
-Type http protocol and type Url and u will reach at website/webpage.
+Type http protocol and type Url and u will reach at website/webpage 
+which is placed inside that loaction u are accessing through url.
  
 Sending Data from browser to server and for sending data we have to assign 
 that Data to variable.So taht reah to the server while we submit and we can 
 perform operation on that data.
 
-Loacl caches of the browser.
+Local caches of the browser.
 
 Radio button. 
 We can select multiple values here in radio button also but if we name 

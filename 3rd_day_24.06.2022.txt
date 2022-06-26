@@ -75,10 +75,10 @@ Any data we want to display on the page/white screeen is known as body tag.
 we can change background color of the page through propeties inside body.
 
 Head
-
 Any data that run behind the scene and not displayed on body is Head tag.
 css and js code will be inside Head Tag
 
+Anchor Tag:-
 When u want to link pages we use anchor tag .
 
 

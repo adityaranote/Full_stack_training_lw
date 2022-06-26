@@ -1,4 +1,40 @@
-1. attributes
-2. action in form
-3. Get and Post we use post to send huge data
-4.
+
+
+
+HTML:- 
+The HyperText Markup Language or HTML is the standard markup 
+language for documents designed to be displayed in a web browser (eg:- chrome)
+
+Webrowser :-
+In technical Terms it is interpreter for the  code and shows user the 
+Iterface to intract or access data.
+
+
+HTML Element:-
+Eg :- <u>This is an example of underline text</u> u is an example of 
+element here.
+
+Tag :- 
+And <> </>
+these symbols are called tags
+
+Start tag <>
+End tag  </>
+element content
+ <form> </form>
+
+Elements has there particular attributes like in <input  type= "text"/> 
+type is an attribute of input element.
+
+Radio button 
+We can select multiple values here in radio button also but if we name 
+variable name same then we can select only one  because the datatype of 
+radio button is variable..we can select only one value .
+
+CheckBox 
+It is created using array or list data type so we can select more than one 
+options while selecting checkbox .
+
+Action attribute of form
+Get
+Post

@@ -1,6 +1,7 @@
 
 Conclusion :- Your browser know lots of things about user And if  we as HumanBeing
-want to communicate with browser we communicate through a language javascript.
+want to communicate with browser we communicate through a language called 
+javascript.
 
 Javsript 
 html is used to show content on webapp but js is used so that user can take actions

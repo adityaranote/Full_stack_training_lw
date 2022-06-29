@@ -1,0 +1,19 @@
+document.locatoin :- A javascript function to access the 
+current location of the page .
+
+Cookie:- It saved indide  the browser so don't need to authentication evrey
+time we go to same website.
+
+Address bar:- We can send instruction through address bar and perform operations
+
+Loops:-
+
+Iteration/loop
+
+for (i  of names)
+{}
+
+
+
+WebScraping by passing javascript code through address bar.
+

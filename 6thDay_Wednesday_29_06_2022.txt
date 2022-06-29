@@ -1,0 +1,3 @@
+Dom:- 
+
+Each HTML document can actually be referred to as a document tree.

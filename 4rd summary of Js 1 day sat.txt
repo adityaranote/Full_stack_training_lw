@@ -1,0 +1,30 @@
+
+Conclusion :- Your browser know lots of things about user And if  we as HumanBeing
+want to communicate with browser we communicate through a language javascript.
+
+Javsript 
+html is used to show content on webapp but js is used so that user can take actions
+or chose different options on web app .JS Make page  actionable
+JS add functionality to the Web Page.
+
+Browser
+Browser know every event happening in the browser every action user is taking weather 
+it is clicking the page or hovering a text with mouse,key pressing on keyword and take 
+text to server to give results .Every activity is one event in browser 
+and browser will capture every event 
+
+Triger
+When ever this event happen do  this it is done by a programming language (javascript)
+event is capture automatically by browser but triger on that event triger is 
+initiated by a programme language (javascript) .
+
+We can use Html propeties and js code to perform operations on webpage eg:-we can
+change the text by using js and html properties . 
+
+There are 3 Pop boxs in JavaScript :-
+
+Alert Box
+
+Confirm Box
+
+Prompt Box

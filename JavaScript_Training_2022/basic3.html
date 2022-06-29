@@ -1,0 +1,37 @@
+<script>
+
+function lw()
+{
+
+x = document.getElementById("d1");
+
+//y = x.innerHTML;
+
+z = document.getElementById("d3");
+
+
+
+//z.value = x.innerHTML;
+//alert(z.value);
+//alert(z);
+
+x.innerHTML = z.value;
+
+}
+</script>
+
+<body>
+
+<div id ="d1">first div</div>
+
+<p id="d2">this is para</p>
+enter ur code <textarea id ="d3" onkeyup="lw()" ></textarea><br/>
+
+box1 <input /> <br/>
+
+
+box2 <input id ="d4"/> <br/>
+
+
+<button onmouseover = "lw()"> click me </button>
+</body>

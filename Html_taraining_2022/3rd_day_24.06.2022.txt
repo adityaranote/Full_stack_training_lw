@@ -1,3 +1,7 @@
+  MERN Day 3 - Html basics | Html Form | Radio 
+  | Checkbox and different input types | Html elements
+
+
 HTML:- 
 The HyperText Markup Language or HTML is the standard markup 
 language for documents designed to be displayed in a web browser (eg:- chrome)

@@ -1,3 +1,6 @@
+ Javascript Session 1- Introduction to javascript
+ | Javascript basics | Events | Html attributes | Dynamic page
+
 Conclusion :- Your browser know lots of things about user And if  we as 
 HumanBeing want to communicate with browser we communicate through a 
 language called javascript.

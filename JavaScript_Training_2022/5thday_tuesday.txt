@@ -1,3 +1,5 @@
+
+
 Array.
 
 Running html code inside javscript code.
@@ -13,11 +15,25 @@ Address bar:- We can send instruction through address bar and perform operations
 Loops:-
 
 Iteration/loop
-
+for (i , i = 10 , i++){}
 for (i  of names)
 {}
 
 
 
 WebScraping by passing javascript code through address bar.
+when we want to perform certain operation
 
+when we open a website A website gives us  bhut sara data and  we need to find 
+specific data like we need to find how many images we have in web page.
+so here is the code to find
+
+1. javascript: alert(document.getElementsByTagName("img").length);
+
+sometimes we need to find what is inside that html element here is the code
+2. javascript: alert(document.getElementsByTagName("div")[0].innerHTML );
+
+
+Conclusion:- 1. Loops:- How to use loops to Use data ....
+2.Webscraping by using javascript code inside the address bar..... let say 
+we need to know how many images are there on web page 

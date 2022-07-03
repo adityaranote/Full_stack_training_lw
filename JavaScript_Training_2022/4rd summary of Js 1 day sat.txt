@@ -26,8 +26,9 @@ change the text by using js and html properties .
 
 There are 3 Pop boxs in JavaScript :-
 
-Alert Box
+Alert Box:- It gives which we we want to print on screen.
 
-Confirm Box
+Confirm Box :- It gives us boolean answer.It is like if and 
+else block.
 
-Prompt Box
+Prompt Box :- It takes the value u want to enter and perform function on that .

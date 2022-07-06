@@ -1,0 +1,11 @@
+css :- It is used to design the website 
+we can put css code in diferent file (external code )
+we access this by linking this file inside head tag
+
+Internal code we can put some code inside Html file to put some specific 
+design 
+
+It is good to use classes while accessing code then id's because
+we use id's also in javascript.So it may create confusion 
+also use different id names for each tag.
+

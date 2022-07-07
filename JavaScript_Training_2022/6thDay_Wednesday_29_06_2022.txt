@@ -1,3 +1,25 @@
-Dom:- 
+Dom :- 
 
-Each HTML document can actually be referred to as a document tree.
+
+
+Web Page Created = Dom created
+
+We as a developer write html document
+and browser create dom 
+
+Dom = Documnet object Model
+dom is created by the browser
+
+Every element or tag is different object in web page
+
+To interact with dom objects there are multiple different ways one of the ways is 
+api
+
+Javascript prebuilt methods is used to access object  in dom 
+and what ever the properties the object has we can use those properties to perform
+any operation. 
+
+form validation through javascript had special requirement
+for form we use javascript code.
+if normal empty fields required value only we use keyword(required).
+

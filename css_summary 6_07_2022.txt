@@ -4,6 +4,7 @@ we access this by linking this file inside head tag
 
 Internal code we can put some code inside Html file to put some specific 
 design 
+Inline css for element .
 
 It is good to use classes while accessing code then id's because
 we use id's also in javascript.So it may create confusion 

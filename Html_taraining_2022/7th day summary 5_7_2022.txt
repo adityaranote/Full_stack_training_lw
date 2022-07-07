@@ -1,0 +1,5 @@
+Table :- tr , td 
+Division of rows ,coloumns by percentage
+coolspan
+rowspan
+iframe:- a link we access a website inside our website.

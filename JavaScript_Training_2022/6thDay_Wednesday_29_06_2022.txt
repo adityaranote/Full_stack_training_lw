@@ -1,6 +1,6 @@
 Dom :- 
 
-
+Dom follows tree data structure
 
 Web Page Created = Dom created
 

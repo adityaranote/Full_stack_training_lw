@@ -1,0 +1,16 @@
+Css 2nd day summary
+padding 
+margin
+border
+
+Box Model
+
+The only big 
+difference b/w p tag and div tag is margin.
+
+Display property of tag
+3 types of display property 
+1. Inline
+2.block
+3.None
+Visible property of taG

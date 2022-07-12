@@ -1,0 +1,6 @@
+If we need to organize our data we need to create a blue print
+based on that blue prints (class) We create objects 
+Objects are intsatnces of classes
+
+Benifits of objects created through classes easy to manage and 
+perform operation(functions) on that 

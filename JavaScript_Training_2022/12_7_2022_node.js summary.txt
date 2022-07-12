@@ -1,0 +1,3 @@
+Node.js:-  it is javascript runtime
+Express Js:- it is a frame work for backEnd u can create your own 
+web server by using prebulit functions in express js

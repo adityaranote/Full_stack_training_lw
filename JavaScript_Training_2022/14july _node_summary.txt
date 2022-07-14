@@ -1,0 +1,9 @@
+1.Created project on aws.
+
+2. Acess ipd that connecting to the server.
+
+3. saving data in the file .
+
+4. Output data on the browser we collecting on server 
+
+5. Run on browser the project that created

@@ -1,3 +1,17 @@
-Node.js:-  it is javascript runtime
-Express Js:- it is a frame work for backEnd u can create your own 
-web server by using prebulit functions in express js
+Node.js:-  it is javascript runtime.
+
+require is the function used to call precreated modules. 
+
+Express Js:- it is a frame work for backEnd .
+
+U can create your own 
+web server by using prebulit functions in express js.
+example:- const express = require("express");
+          const app = express()
+          
+          app.listen(3000);  
+      
+GET REQUEST :- When we search something on google we 
+send get request to get a data.
+
+Client can be specific by typing the path where they want to go.

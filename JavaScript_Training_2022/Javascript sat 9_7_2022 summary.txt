@@ -1,13 +1,25 @@
 Javascript Events :-
 
+
+
 Recurssion :- When we call function inside function it becomes 
 infinite loop it is called recurssion
 
+stack Memory 
+stack limit
+
+Ar:- Activation Record
+ 
 Global variable:- Global variable are those which we can access 
 any where . 
  
 Local variable:- local variable we can access from the block we 
 declared only we create var by using keyword var .
+
+if u create a variable inside the function then u can not call the
+fucntion outside the function because function is local
  
 if we have problem calling variable then only declare variable 
 don't call it by var keyword .
+
+Event :- Event is a function also that tell us where is our mouse

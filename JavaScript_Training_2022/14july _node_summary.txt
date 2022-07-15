@@ -1,6 +1,6 @@
 1.Created project on aws.
 
-2. Acess ipd that connecting to the server.
+2. Acess ip that connecting to the server.
 
 3. saving data in the file .
 

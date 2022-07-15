@@ -1,0 +1,10 @@
+rquest 
+response
+rout
+nodemon 
+npm start
+response.sendFile(__dirname + "/home.html")
+data collecting by creating a variables
+sequence for  variable:- (request , response)
+request = data coming from client
+response = response from the browser

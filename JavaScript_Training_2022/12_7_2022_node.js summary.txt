@@ -12,6 +12,6 @@ example:- const express = require("express");
           app.listen(3000);  
       
 GET REQUEST :- When we search something on google we 
-send get request to get a data.
+send get request to get a response from the sevrer. 
 
 Client can be specific by typing the path where they want to go.

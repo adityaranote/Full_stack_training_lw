@@ -1,0 +1,11 @@
+-Js Object
+ -factory function
+
+-Anonymous
+ -Arrow function
+
+-Call back
+ -first order/higher-oreder
+
+-Ajax
+ -Async 

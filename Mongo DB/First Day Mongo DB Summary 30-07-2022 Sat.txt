@@ -1,0 +1,19 @@
+Mongo DB Summary :- 
+
+NoSQL 
+
+
+
+
+Mongo Db Compass
+Connection String = URL
+
+9:30 - 11:20
+
+
+Record per product
+
+Flexible Schema
+We don't have to plan in No SQL Schema Per Document Plan Changes
+
+Json

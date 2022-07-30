@@ -1,0 +1,36 @@
+open
+
+XMLHttpRequest
+
+send
+
+.responsetext =  load once an get data whenever data 
+changes
+
+sync vs async 
+//myhttp.open("method", url, type)
+              ("GET",Url,false/true)
+
+
+5 different steps
+
+1 Request - not init --- 0
+2. c---s---- connection to server of client established --- 1
+
+3. Request ------recieved -----serever  ----- 2
+
+4. Processing the  request ---- 3
+
+5. Request finished and response sending  -----  4
+
+
+To autmate these 5 steps
+
+A prebuilt javascript event is available
+
+
+.onreadystatechange
+U can call this event by using your variable
+
+
+myhttp.onreadystatechange

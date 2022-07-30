@@ -1,0 +1,10 @@
+
+
+Json :-
+when sever talk to each other they give output in standard format
+Json format
+
+how to use json :- 
+json is a combination of key value pair
+
+Json Path

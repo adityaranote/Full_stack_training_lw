@@ -1,0 +1,10 @@
+Permission for user in mysql workbench
+
+Installing mysql server on aws cloud
+
+
+
+Giving power 
+
+Revoking power
+

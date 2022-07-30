@@ -5,7 +5,7 @@ We create Web page structure using html
 2.
 css 
 Cascade Style Sheet 
-It Makes The html page look colorful and have certain desing
+It Makes The html page look colorful and have certain design
 
 3. JavaScript
 It is language use both on server and client side to make Static Web Page (Eg :- That only Gives Information)and 

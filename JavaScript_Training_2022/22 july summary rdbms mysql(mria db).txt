@@ -1,0 +1,31 @@
+RDMS Summary :- 
+
+To make things standardize we created dbms tool to make it easy 
+to access the files with a standard way or langauge(sql language)
+
+
+Standardize Way to manage
+Same base to manage data
+
+
+dms
+
+
+db
+product :- MySql
+
+
+Schema
+
+3 - tier In case of web/moblie applications we use 3 tier like fb 
+linkedin
+2 - tier
+
+DDL - create 
+
+DML - 
+
+key 
+unique id
+primary key
+foriegn key

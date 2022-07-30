@@ -1,0 +1,34 @@
+1. Form :- It helps user to interact.
+It helps  users creating the url . We can also send data 
+direct from  url
+
+2. When client connects to the server it uses http protocol and 
+http protocoal has two things 1. header and 2. body
+
+what ever we see is body part
+
+3. By default when we send request it is get request
+Data is visible in the querry string if we sending it with
+get request 
+
+
+4. We have to change the mehtod to Post while you cannot see
+data in url but if You inspect in devloper tool you can 
+see data inside  payload .. post does not gives you security you 
+have to change your http protocol to https protocol
+
+
+Limitation of form :-
+Send data without the use of form because we don't want our 
+page to reload
+
+We are sending data of input tag by clicking the button 
+with the help Js code
+
+We donot want to use submit button and form because it reloads 
+page so heres the role of ajax comes
+
+Ajax :- 
+
+We have to write BackEnd Code for this by using Express frame
+work

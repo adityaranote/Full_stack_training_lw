@@ -1,19 +1,44 @@
 Mongo DB Summary :- 
 
 NoSQL 
+every record == document
+
 
 
 
 
 Mongo Db Compass
+
+In Mongo Db we use connection string to talk to server database.
+
 Connection String = URL
 
-9:30 - 11:20
+
 
 
 Record per product
 
+Mongo Db is document oriented database .
+
 Flexible Schema
 We don't have to plan in No SQL Schema Per Document Plan Changes
 
-Json
+Json :- We Store data in mongo db in json format .(Key Value Pair)
+{"aditya" : "Richest Man On earth"}
+
+
+Use filter to do operation on data Mongo Db
+
+All Command has one and many option
+
+Atomic Operators
+
+Insert ---> Create
+Filter/Find ---> Read
+Modify ---> Update
+Remove ---> Delete
+
+
+Every document is record in mongo db and each record
+has a different plan . So that is flexible schema / Schemeless 
+database management.

@@ -1,10 +1,12 @@
-GIT Lab Summary
+STDLC
+
+Pipe Line 
 
 CI
+
 CD
 
+SCM
 
-package = artifcl
 
-Sdlc
-
+3:25 - 5:00

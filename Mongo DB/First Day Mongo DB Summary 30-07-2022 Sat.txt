@@ -24,7 +24,7 @@ Flexible Schema
 We don't have to plan in No SQL Schema Per Document Plan Changes
 
 Json :- We Store data in mongo db in json format .(Key Value Pair)
-{"aditya" : "Richest Man On earth"}
+{"Umakant" : "My Brother"}
 
 
 Use filter to do operation on data Mongo Db

@@ -1,0 +1,7 @@
+imparitve pl
+declarative pl eg :- frameworks/library like react
+
+bable compiler :- It is the compiler that converts code on to the 
+browser 
+
+JSX code :- inside react he code is jsx not html or css code

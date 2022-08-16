@@ -1,0 +1,29 @@
+order = true to skip duplicate value and store the one that is not
+stored .
+
+aknowledgment
+
+crud operation 
+
+read operation read
+
+write operation create, update , delete .
+
+
+bson
+
+write concern is only at writing data to storage  it gives us 
+property aknowledgement true.
+
+jrounling :- 
+ 
+wtimeout
+
+roll back
+
+Atomicity
+
+unwind for group by on list
+
+
+

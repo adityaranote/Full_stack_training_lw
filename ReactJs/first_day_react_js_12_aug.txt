@@ -1,7 +1,31 @@
+different browser has different methods/functions so have to  create different code for different browser
+
+
 imparitve pl
+
+
+---What to do
+---Item to do(how to do)
+
 declarative pl eg :- frameworks/library like react
+
+---What to do
+we write what to do here how to do they manage this itself 
+we don't have to write
+
+
 
 bable compiler :- It is the compiler that converts code on to the 
 browser 
 
+bundle.js created by bable  compiler .
+
 JSX code :- inside react he code is jsx not html or css code
+
+---What to do
+we write what to do here how to do they manage this itself 
+we don't have to write
+
+---Where to do
+
+render function.

@@ -1,3 +1,13 @@
 jsx code 
 components
 customizised components
+
+
+how to use import 
+
+create custom components
+
+export default 
+export {lw ,myvimal}
+
+

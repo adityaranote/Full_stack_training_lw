@@ -1,0 +1,11 @@
+.myheader {
+    color:red;
+}
+
+.mypost {
+ color: blue;
+ background-color: beige;
+ border: 2px groove blue;
+ width: 400px;
+
+}

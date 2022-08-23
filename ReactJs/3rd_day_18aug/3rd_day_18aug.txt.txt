@@ -1,0 +1,13 @@
+customizied component, components props
+jsx code explanation
+
+
+customizied component :- we create components in different class and that is modules
+we import them in main file
+to use that function we have to export those function fron the file where we have created them .
+
+render function 
+
+createRoot function from reactDom file to pass that in render function 
+
+encapsulate all complexities make different  components for different parts

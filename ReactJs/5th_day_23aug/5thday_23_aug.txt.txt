@@ -1,0 +1,14 @@
+State and hooks
+
+
+   
+Jsx only spports operators or the expression thats why we put ternary operators in b/w
+
+StateMangement
+
+After your all code launced we have to use 
+
+If UI has to chnage after user interaction then that we have to place in special area UseState() 
+this function gives to value one is what value it  have and tenure function
+
+
